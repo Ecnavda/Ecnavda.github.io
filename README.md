@@ -1,2 +1,0 @@
-# Ecnavda.github.io
-Website
